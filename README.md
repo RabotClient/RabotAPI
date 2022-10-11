@@ -10,7 +10,7 @@
 
 
 <!-- PROJECT LOGO -->
-  <img src="https://i.imgur.com/J6l3AXj.png" width="100">
+  <img src="https://i.imgur.com/J6l3AXj.png" width="200">
  
    
 <!-- PROJECT Name -->
