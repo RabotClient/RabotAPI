@@ -4,7 +4,7 @@
 <!-- Social buttons -->
 
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kEP3zx8h)
-
+<br>
 
  
 
@@ -15,11 +15,11 @@
    
 <!-- PROJECT Name -->
 # RabotAPI
-
+ 
 <!-- ABOUT THE PROJECT -->
 ### About The Project
-###### Open-source API created for RS3 Bot Rabot </a>
-<a style="background-color: red;" href="http://www.rabot.dev/"><strong> Website</strong>
+###### Open-source Java API created for RS3 Bot Rabot </a>
+<a href="http://www.rabot.dev/"><strong> Website</strong>
 <br>
 <a href="https://discord.gg/kEP3zx8h"><strong> Discord</strong>
 
