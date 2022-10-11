@@ -18,7 +18,7 @@
  
 <!-- ABOUT THE PROJECT -->
 ### About The Project
-###### Open-source Java API created for RS3 Bot Rabot </a>
+###### Open-source Java API created for RS3 Rabot bot client </a>
 <a href="http://www.rabot.dev/"><strong> Website</strong>
 <br>
 <a href="https://discord.gg/kEP3zx8h"><strong> Discord</strong>
