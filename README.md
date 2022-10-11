@@ -14,7 +14,7 @@
  
    
 <!-- PROJECT Name -->
-# RabotAPI
+# Rabot Java API
  
 <!-- ABOUT THE PROJECT -->
 ### About The Project
@@ -24,5 +24,4 @@
 <a href="https://discord.gg/kEP3zx8h"><strong> Discord</strong>
 
 <!-- Jump to top button -->
-<p align="right">(<a href="#top">back to top</a>)</p>
 </div>
